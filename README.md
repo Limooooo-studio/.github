@@ -16,7 +16,6 @@ Limooo Studio is Lime's independent software workspace for web products, infrast
 - A multilingual status page with scheduled uptime checks and webhook alerts
 - A portfolio image pipeline that publishes watermarked full-size images and clean thumbnails while keeping originals private
 
-
 ## Other projects
 
 | Project | Description |
