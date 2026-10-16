@@ -1,65 +1,33 @@
-# ⚙️ Limooo Studio
+# Limooo Studio
 
-Welcome to **Limooo Studio** — the personal engineering hub of **Lime**.
+Limooo Studio is Lime's independent software workspace for web products, infrastructure, and creative projects.
 
-This organization serves as the dedicated home for all my code, infrastructure, and creative experiments. Every project here is built with a core philosophy:
+> Built like infrastructure. Captured like art.
 
-> **Built like infrastructure. Captured like art.**
+## Featured project
 
----
+### [Limooo](https://limooo.cn)
 
-## 🧑‍💻 About the Studio
+[Limooo-Website](https://github.com/Limooooo-studio/Limooo-Website) powers Limooo, a serverless personal website and web platform hosted on Cloudflare.
 
-- **Founder & Maintainer**: Lime
-- **Purpose**: A structured space to house, version, and showcase my personal software projects — from full‑stack web applications to experimental tools.
-- **Philosophy**: Code should be robust and reliable like infrastructure, yet elegant and thoughtful like art.
+- Four-language public pages for Home, Services, Contact, and Portfolio, with light and dark themes
+- A multilingual documentation site and a unified redirect page
+- Edge-based Turnstile verification and crawler access controls
+- A multilingual status page with scheduled uptime checks and webhook alerts
+- A portfolio image pipeline that publishes watermarked full-size images and clean thumbnails while keeping originals private
 
----
+**Technology:** Python, TypeScript, Cloudflare Pages, Workers, D1, R2, and VitePress.
 
-## 🚀 Featured Project
+## Other projects
 
-### [Limooo-Website](https://github.com/Limooooo-Studio/Limooo-Website)
+| Project | Description |
+| --- | --- |
+| [Sink](https://github.com/Limooooo-studio/Sink) | A link shortener with analytics, hosted on Cloudflare. |
+| [Browse all repositories](https://github.com/orgs/Limooooo-studio/repositories) | Explore projects across Limooo Studio. |
 
-The flagship project — a Flask‑based personal website and admin system running at [limooo.cn](https://limooo.cn).
+## Contact
 
-**Key features**:
-- Public pages with dark/light theme switching
-- Admin dashboard with real‑time visitor analytics (IP, geolocation, ISP, ASN)
-- Encrypted Apple ID manager with CRUD and drag‑and‑drop ordering
-- Self‑hosted authentik OIDC single sign‑on with role‑based access
-- Automated IP blocking at both kernel and CDN levels
-- Unified redirect page with an interstitial
+- Website: [limooo.cn](https://limooo.cn)
+- Contact page: [contact.limooo.cn](https://contact.limooo.cn)
 
-**Tech Stack**: Flask, Gunicorn, Nginx (HTTP/3), Cloudflare, authentik, SQLite, MaxMind GeoLite2, Fernet encryption
-
----
-
-## 📦 Other Repositories
-
-| Repository | Description |
-|------------|-------------|
-| [Sink](https://github.com/Limooooo-Studio/Sink) | A simple, speedy, and secure link shortener with analytics, 100% running on Cloudflare |
-| [.github](https://github.com/Limooooo-Studio/.github) | Organization profile README config — you're reading it right now |
-
----
-
-## 🛠️ Tech Stack
-
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📬 Contact
-
-- **Website**:  [limooo.cn](https://limooo.cn)
-- **Contact Page**: [contact.limooo.cn](https://contact.limooo.cn)
-
----
-
-*Thanks for stopping by. Feel free to explore the repositories — and if something catches your eye, I'd love to hear about it.*
+Thanks for stopping by. Feel free to explore the projects.
