@@ -27,5 +27,6 @@ Limooo Studio is Lime's independent software workspace for web products, infrast
 
 - Website: [limooo.cn](https://limooo.cn)
 - Contact page: [contact.limooo.cn](https://contact.limooo.cn)
+- Email: [contact@limooo.cn](mailto:contact@limooo.cn)
 
 Thanks for stopping by. Feel free to explore the projects.
